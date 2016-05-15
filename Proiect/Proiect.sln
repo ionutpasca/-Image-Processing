@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect", "Proiect\Proiect.csproj", "{30959E1E-D21F-4E1A-8A5A-32A3201293EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOperations", "PointOperations\PointOperations.csproj", "{F9B46961-3860-42A1-A0C7-8FC623FF87A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{04EBE318-F404-4E91-9E67-2E1596D4928D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30959E1E-D21F-4E1A-8A5A-32A3201293EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30959E1E-D21F-4E1A-8A5A-32A3201293EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30959E1E-D21F-4E1A-8A5A-32A3201293EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30959E1E-D21F-4E1A-8A5A-32A3201293EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B46961-3860-42A1-A0C7-8FC623FF87A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B46961-3860-42A1-A0C7-8FC623FF87A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B46961-3860-42A1-A0C7-8FC623FF87A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B46961-3860-42A1-A0C7-8FC623FF87A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EBE318-F404-4E91-9E67-2E1596D4928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EBE318-F404-4E91-9E67-2E1596D4928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EBE318-F404-4E91-9E67-2E1596D4928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EBE318-F404-4E91-9E67-2E1596D4928D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
